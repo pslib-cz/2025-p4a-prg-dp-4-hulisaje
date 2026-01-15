@@ -1,0 +1,14 @@
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\bin\Debug\net8.0\hulisajeDP4.exe
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\bin\Debug\net8.0\hulisajeDP4.deps.json
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\bin\Debug\net8.0\hulisajeDP4.runtimeconfig.json
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\bin\Debug\net8.0\hulisajeDP4.dll
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\bin\Debug\net8.0\hulisajeDP4.pdb
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\obj\Debug\net8.0\hulisajeDP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\obj\Debug\net8.0\hulisajeDP4.AssemblyInfoInputs.cache
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\obj\Debug\net8.0\hulisajeDP4.AssemblyInfo.cs
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\obj\Debug\net8.0\hulisajeDP4.csproj.CoreCompileInputs.cache
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\obj\Debug\net8.0\hulisajeDP4.dll
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\obj\Debug\net8.0\refint\hulisajeDP4.dll
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\obj\Debug\net8.0\hulisajeDP4.pdb
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\obj\Debug\net8.0\hulisajeDP4.genruntimeconfig.cache
+C:\Users\Local User\source\repos\hulisajeDP4\hulisajeDP4\obj\Debug\net8.0\ref\hulisajeDP4.dll

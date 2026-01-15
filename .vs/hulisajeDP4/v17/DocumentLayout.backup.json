@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|c:\\users\\local user\\source\\repos\\hulisajedp4\\hulisajedp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|solutionrelative:hulisajedp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|c:\\users\\local user\\source\\repos\\hulisajedp4\\hulisajedp4\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|solutionrelative:hulisajedp4\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|c:\\users\\local user\\source\\repos\\hulisajedp4\\hulisajedp4\\actionmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|solutionrelative:hulisajedp4\\actionmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|c:\\users\\local user\\source\\repos\\hulisajedp4\\hulisajedp4\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|solutionrelative:hulisajedp4\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|c:\\users\\local user\\source\\repos\\hulisajedp4\\hulisajedp4\\submenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA0BA0D-A035-4933-89F6-DB736A8AAFAA}|hulisajeDP4\\hulisajeDP4.csproj|solutionrelative:hulisajedp4\\submenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\Factory.cs",
+              "RelativeDocumentMoniker": "hulisajeDP4\\Factory.cs",
+              "ToolTip": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\Factory.cs",
+              "RelativeToolTip": "hulisajeDP4\\Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:30:56.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActionMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\ActionMenuItem.cs",
+              "RelativeDocumentMoniker": "hulisajeDP4\\ActionMenuItem.cs",
+              "ToolTip": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\ActionMenuItem.cs",
+              "RelativeToolTip": "hulisajeDP4\\ActionMenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:27:47.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\SubMenuItem.cs",
+              "RelativeDocumentMoniker": "hulisajeDP4\\SubMenuItem.cs",
+              "ToolTip": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\SubMenuItem.cs",
+              "RelativeToolTip": "hulisajeDP4\\SubMenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:26:51.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\MenuItem.cs",
+              "RelativeDocumentMoniker": "hulisajeDP4\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\MenuItem.cs",
+              "RelativeToolTip": "hulisajeDP4\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:23:24.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\Program.cs",
+              "RelativeDocumentMoniker": "hulisajeDP4\\Program.cs",
+              "ToolTip": "C:\\Users\\Local User\\source\\repos\\hulisajeDP4\\hulisajeDP4\\Program.cs",
+              "RelativeToolTip": "hulisajeDP4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:23:11.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
